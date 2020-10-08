@@ -7,3 +7,9 @@ RC2014 system...
 All informations are gather from different web sites. 
 
 Should I violate copyright please let me know.
+
+All this informations are based an Dr. Scott M. Baker blog, only a bit polished :-)
+
+Please visit
+
+https://www.smbaker.com/
