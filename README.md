@@ -13,3 +13,5 @@ All this informations are based an Dr. Scott M. Baker blog, only a bit polished 
 Please visit
 
 https://www.smbaker.com/
+
+Please visit https://github.com/sgersing73/RC2014/wiki
