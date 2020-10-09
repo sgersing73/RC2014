@@ -14,4 +14,4 @@ Please visit
 
 https://www.smbaker.com/
 
-Please visit https://github.com/sgersing73/RC2014/wiki
+Please visit https://github.com/sgersing73/RC2014/wiki/RC2014,-to-do-it-yourself
