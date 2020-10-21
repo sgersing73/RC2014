@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 (module BUTTON_RA (layer F.Cu) (tedit 0)
   (fp_text reference U$5 (at 0 0) (layer F.SilkS) hide
     (effects (font (size 1.27 1.27) (thickness 0.15)) (justify right top))
@@ -23,3 +24,30 @@
   (pad NC2 thru_hole rect (at 3.5052 -1.2446) (size 2.0955 2.0955) (drill 1.397) (layers *.Cu *.Mask)
     (solder_mask_margin 0.1016))
 )
+=======
+(module BUTTON_RA (layer F.Cu) (tedit 0)
+  (fp_text reference U$5 (at 0 0) (layer F.SilkS) hide
+    (effects (font (size 1.27 1.27) (thickness 0.15)) (justify right top))
+  )
+  (fp_text value BUTTON_RA (at 0 0) (layer F.SilkS) hide
+    (effects (font (size 1.27 1.27) (thickness 0.15)) (justify right top))
+  )
+  (fp_line (start -5.08 3.8354) (end -5.08 -2.7686) (layer F.SilkS) (width 0.127))
+  (fp_line (start -5.08 -2.7686) (end 5.08 -2.7686) (layer F.SilkS) (width 0.127))
+  (fp_line (start 5.08 -2.7686) (end 5.08 3.8354) (layer F.SilkS) (width 0.127))
+  (fp_line (start 5.08 3.8354) (end 2.54 3.8354) (layer F.SilkS) (width 0.127))
+  (fp_line (start 2.54 3.8354) (end -2.54 3.8354) (layer F.SilkS) (width 0.127))
+  (fp_line (start -2.54 3.8354) (end -5.08 3.8354) (layer F.SilkS) (width 0.127))
+  (fp_line (start -2.54 3.8354) (end -2.54 4.064) (layer F.SilkS) (width 0.127))
+  (fp_line (start -2.54 4.064) (end 2.54 4.064) (layer F.SilkS) (width 0.127))
+  (fp_line (start 2.54 4.064) (end 2.54 3.8354) (layer F.SilkS) (width 0.127))
+  (pad P$1 thru_hole rect (at -2.2479 1.2446) (size 1.524 1.524) (drill 1.016) (layers *.Cu *.Mask)
+    (solder_mask_margin 0.1016))
+  (pad P$2 thru_hole rect (at 2.2479 1.2446) (size 1.524 1.524) (drill 1.016) (layers *.Cu *.Mask)
+    (solder_mask_margin 0.1016))
+  (pad NC1 thru_hole rect (at -3.5052 -1.2446) (size 2.0955 2.0955) (drill 1.397) (layers *.Cu *.Mask)
+    (solder_mask_margin 0.1016))
+  (pad NC2 thru_hole rect (at 3.5052 -1.2446) (size 2.0955 2.0955) (drill 1.397) (layers *.Cu *.Mask)
+    (solder_mask_margin 0.1016))
+)
+>>>>>>> origin/main

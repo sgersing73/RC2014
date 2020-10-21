@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 (fp_lib_table
   (lib (name eaa651fdd346d6544176813de3c28a36)(type KiCad)(uri "$(KIPRJMOD)/eaa651fdd346d6544176813de3c28a36.pretty")(options "")(descr ""))
 )
+=======
+(fp_lib_table
+  (lib (name eaa651fdd346d6544176813de3c28a36)(type KiCad)(uri "$(KIPRJMOD)/eaa651fdd346d6544176813de3c28a36.pretty")(options "")(descr ""))
+)
+>>>>>>> origin/main

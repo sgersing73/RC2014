@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 M48
 ; DRILL file {KiCad 5.1.2} date 20.10.2020 13:32:58
 ; FORMAT={-:-/ absolute / metric / decimal}
@@ -11,3 +12,18 @@ G90
 G05
 T0
 M30
+=======
+M48
+; DRILL file {KiCad 5.1.2} date 20.10.2020 13:32:58
+; FORMAT={-:-/ absolute / metric / decimal}
+; #@! TF.CreationDate,2020-10-20T13:32:58+02:00
+; #@! TF.GenerationSoftware,Kicad,Pcbnew,5.1.2
+; #@! TF.FileFunction,NonPlated,1,2,NPTH
+FMAT,2
+METRIC
+%
+G90
+G05
+T0
+M30
+>>>>>>> origin/main
