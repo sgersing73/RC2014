@@ -1,16 +1,16 @@
-"ID";"Bezeichner";"Gehäuse";"Stückzahl";"Bezeichnung";"Anbieter und Referenz";
-1;"IC1";"DIL40";1;"Z84C3006PEG";;;
-2;"SV1";"MA06-2";1;"";;;
-3;"U$1";"SIP40";1;"RC2014";;;
-4;"R1";"0204_7";1;"2.2K";;;
-5;"QG1";"DIL08S";1;"7.3728MHZ";;;
-6;"C1,C2";"C025-025X050";2;"100nF";;;
-7;"U$4";"SOT143";1;"MAX811";;;
-8;"SJ1";"SJ";1;"";;;
-9;"U$5";"BUTTON_RA";1;"BUTTON_RA";;;
-10;"SV2";"MA03-1";1;"";;;
-11;"RN1";"SIL6";1;"10K";;;
-12;"JP1";"JP1";1;"";;;
-13;"IC2";"DIL14";1;"74HCT04N";;;
-14;"LED1,LED2,LED3,LED4,LED5,LED6";"LED3MM";6;"";;;
-15;"RN2";"SIL7";1;"470";;;
+"ID","Bezeichner","Gehäuse","Stückzahl","Bezeichnung","Anbieter und Referenz",
+1,"IC1","DIL40",1,"Z84C3006PEG",,,
+2,"SV1","MA06-2",1,"",,,
+3,"U$1","SIP40",1,"RC2014",,,
+4,"R1","0204_7",1,"2.2K",,,
+5,"QG1","DIL08S",1,"7.3728MHZ",,,
+6,"C1,C2","C025-025X050",2,"100nF",,,
+7,"U$4","SOT143",1,"MAX811",,,
+8,"SJ1","SJ",1,"",,,
+9,"U$5","BUTTON_RA",1,"BUTTON_RA",,,
+10,"SV2","MA03-1",1,"",,,
+11,"RN1","SIL6",1,"10K",,,
+12,"JP1","JP1",1,"",,,
+13,"IC2","DIL14",1,"74HCT04N",,,
+14,"LED1,LED2,LED3,LED4,LED5,LED6","LED3MM",6,"",,,
+15,"RN2","SIL7",1,"470",,,
