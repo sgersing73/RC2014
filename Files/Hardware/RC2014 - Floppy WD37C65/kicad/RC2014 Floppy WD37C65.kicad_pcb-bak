@@ -60,7 +60,7 @@
     (pad_to_mask_clearance 0.051)
     (solder_mask_min_width 0.25)
     (aux_axis_origin 0 0)
-    (visible_elements FFFFEF7F)
+    (visible_elements 7FFFEFFF)
     (pcbplotparams
       (layerselection 0x010fc_ffffffff)
       (usegerberextensions false)
@@ -87,7 +87,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "RC2014 Floppy WD37C65 (gerber)/"))
+      (outputdirectory "../gerber/"))
   )
 
   (net 0 "")
@@ -1870,7 +1870,7 @@
   (segment (start 145.6181 119.7306) (end 145.6181 113.5076) (width 0.254) (layer Top) (net 58) (tstamp 115A9628))
   (segment (start 146.7611 120.8736) (end 145.6181 119.7306) (width 0.254) (layer Top) (net 58) (tstamp 115A9690))
 
-  (zone (net 1) (net_name GND) (layer Bottom) (tstamp 5F8DF39B) (hatch edge 0.508)
+  (zone (net 1) (net_name GND) (layer Bottom) (tstamp 5F8EDFA1) (hatch edge 0.508)
     (priority 6)
     (connect_pads (clearance 0.000001))
     (min_thickness 0.4064)
