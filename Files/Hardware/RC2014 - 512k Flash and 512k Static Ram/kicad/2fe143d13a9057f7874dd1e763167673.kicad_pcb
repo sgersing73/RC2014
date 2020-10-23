@@ -207,12 +207,12 @@
     (add_net ~WR)
   )
 
-  (module 2fe143d13a9057f7874dd1e763167673:SIP40 (layer Top) (tedit 0) (tstamp 5F8EF11B)
+  (module 2fe143d13a9057f7874dd1e763167673:SIP40 (layer Top) (tedit 0) (tstamp 5F92D767)
     (at 146.7611 125.3186)
     (fp_text reference CON1 (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
-    (fp_text value RC2014 (at 0 0) (layer F.SilkS) hide
+    (fp_text value "RC2014 Backplane" (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
     (pad 21 thru_hole oval (at 2.54 0 90) (size 3.048 1.524) (drill 1.016) (layers *.Cu *.Mask)
@@ -303,7 +303,7 @@
     (fp_text reference C1 (at 2.9514 0.7111 270) (layer F.SilkS)
       (effects (font (size 1.2065 1.2065) (thickness 0.127)) (justify right top))
     )
-    (fp_text value 100nF (at -2.286 2.794 90) (layer F.Fab) hide
+    (fp_text value 100nF (at -2.3826 2.2351 90) (layer F.SilkS)
       (effects (font (size 1.2065 1.2065) (thickness 0.12065)) (justify right top))
     )
     (fp_line (start -0.381 0) (end -0.762 0) (layer F.Fab) (width 0.1524))
@@ -334,7 +334,7 @@
     (fp_text reference C2 (at 2.9514 0.7111 270) (layer F.SilkS)
       (effects (font (size 1.2065 1.2065) (thickness 0.127)) (justify right top))
     )
-    (fp_text value 100nF (at -2.286 2.794 90) (layer F.Fab) hide
+    (fp_text value 100nF (at -2.3826 2.2351 90) (layer F.SilkS)
       (effects (font (size 1.2065 1.2065) (thickness 0.12065)) (justify right top))
     )
     (fp_line (start -0.381 0) (end -0.762 0) (layer F.Fab) (width 0.1524))
@@ -365,7 +365,7 @@
     (fp_text reference C3 (at 2.9514 0.7111 270) (layer F.SilkS)
       (effects (font (size 1.2065 1.2065) (thickness 0.127)) (justify right top))
     )
-    (fp_text value 100nF (at -2.286 2.794 90) (layer F.Fab) hide
+    (fp_text value 100nF (at -2.286 2.794 90) (layer F.SilkS)
       (effects (font (size 1.2065 1.2065) (thickness 0.12065)) (justify right top))
     )
     (fp_line (start -0.381 0) (end -0.762 0) (layer F.Fab) (width 0.1524))
@@ -396,7 +396,7 @@
     (fp_text reference C4 (at 2.9911 0.9386 180) (layer F.SilkS)
       (effects (font (size 1.2065 1.2065) (thickness 0.127)) (justify right top))
     )
-    (fp_text value 100nF (at -2.286 2.794) (layer F.Fab) hide
+    (fp_text value 100nF (at -2.286 2.794) (layer F.SilkS)
       (effects (font (size 1.2065 1.2065) (thickness 0.12065)) (justify right top))
     )
     (fp_line (start -0.381 0) (end -0.762 0) (layer F.Fab) (width 0.1524))
@@ -427,7 +427,7 @@
     (fp_text reference C5 (at 3.3111 0.6686 180) (layer F.SilkS)
       (effects (font (size 1.2065 1.2065) (thickness 0.127)) (justify right top))
     )
-    (fp_text value 100nF (at -2.286 2.794) (layer F.Fab) hide
+    (fp_text value 100nF (at -2.286 2.794) (layer F.SilkS)
       (effects (font (size 1.2065 1.2065) (thickness 0.12065)) (justify right top))
     )
     (fp_line (start -0.381 0) (end -0.762 0) (layer F.Fab) (width 0.1524))
@@ -764,7 +764,7 @@
   (module 2fe143d13a9057f7874dd1e763167673:DIL16 (layer Top) (tedit 0) (tstamp 5F8EF24C)
     (at 188.6711 96.1086)
     (descr "<b>Dual In Line Package</b>")
-    (fp_text reference IC4 (at -10.541 2.921) (layer F.SilkS)
+    (fp_text reference IC4 (at 4.8769 0.6654) (layer F.SilkS)
       (effects (font (size 1.2065 1.2065) (thickness 0.12065)) (justify left bottom))
     )
     (fp_text value 74HCT138N (at -7.493 0.635) (layer F.SilkS)
@@ -813,7 +813,7 @@
   (module 2fe143d13a9057f7874dd1e763167673:DIL14 (layer Top) (tedit 0) (tstamp 5F8EF265)
     (at 189.9411 110.0786)
     (descr "<b>Dual In Line Package</b>")
-    (fp_text reference IC5 (at -9.271 3.048) (layer F.SilkS)
+    (fp_text reference IC5 (at 4.1149 0.6654) (layer F.SilkS)
       (effects (font (size 1.2065 1.2065) (thickness 0.12065)) (justify left bottom))
     )
     (fp_text value 74HCT74N (at -6.731 0.635) (layer F.SilkS)
@@ -858,7 +858,7 @@
   (module 2fe143d13a9057f7874dd1e763167673:MA08-2 (layer Top) (tedit 0) (tstamp 5F8EF27C)
     (at 188.6711 87.2186 180)
     (descr "<b>PIN HEADER</b>")
-    (fp_text reference SV1 (at -10.16 -2.921 180) (layer F.SilkS) hide
+    (fp_text reference SV1 (at 12.6491 2.3826 90) (layer F.SilkS)
       (effects (font (size 1.2065 1.2065) (thickness 0.127)) (justify right top))
     )
     (fp_text value "" (at 0 4.191) (layer F.Fab)
@@ -976,7 +976,7 @@
     (fp_text reference C6 (at 2.9514 0.7111 270) (layer F.SilkS)
       (effects (font (size 1.2065 1.2065) (thickness 0.127)) (justify right top))
     )
-    (fp_text value 100nF (at -2.286 2.794 90) (layer F.Fab) hide
+    (fp_text value 100nF (at -2.286 2.794 90) (layer F.SilkS)
       (effects (font (size 1.2065 1.2065) (thickness 0.12065)) (justify right top))
     )
     (fp_line (start -0.381 0) (end -0.762 0) (layer F.Fab) (width 0.1524))
@@ -1004,10 +1004,10 @@
   (module 2fe143d13a9057f7874dd1e763167673:SIL6 (layer Top) (tedit 0) (tstamp 5F8EF2E8)
     (at 163.2711 113.8886 270)
     (descr "<b>Single In Line</b>")
-    (fp_text reference RN1 (at -2.1286 3.2511 270) (layer F.SilkS)
+    (fp_text reference RN1 (at 1.4274 3.2511 270) (layer F.SilkS)
       (effects (font (size 1.2065 1.2065) (thickness 0.127)) (justify right top))
     )
-    (fp_text value 10K (at -0.635 -1.27 90) (layer F.Fab) hide
+    (fp_text value 10K (at -4.4146 3.2511 90) (layer F.SilkS)
       (effects (font (size 1.2065 1.2065) (thickness 0.12065)) (justify right top))
     )
     (fp_text user 1 (at -5.9386 1.9811 270) (layer F.SilkS)
@@ -1051,13 +1051,13 @@
       (net 1 GND) (solder_mask_margin 0.1016))
   )
 
-  (module 2fe143d13a9057f7874dd1e763167673:SIL6 (layer Top) (tedit 0) (tstamp 5F8EF30A)
+  (module 2fe143d13a9057f7874dd1e763167673:SIL6 (layer Top) (tedit 0) (tstamp 5F92DF6B)
     (at 145.4911 113.8886 270)
     (descr "<b>Single In Line</b>")
-    (fp_text reference RN2 (at -2.1286 3.2511 270) (layer F.SilkS)
+    (fp_text reference RN2 (at 1.4274 3.2511 270) (layer F.SilkS)
       (effects (font (size 1.2065 1.2065) (thickness 0.127)) (justify right top))
     )
-    (fp_text value 10K (at -0.635 -1.27 90) (layer F.Fab) hide
+    (fp_text value 10K (at -4.6686 3.2511 90) (layer F.SilkS)
       (effects (font (size 1.2065 1.2065) (thickness 0.12065)) (justify right top))
     )
     (fp_text user 1 (at -5.9386 1.9811 270) (layer F.SilkS)
@@ -1101,13 +1101,13 @@
       (net 1 GND) (solder_mask_margin 0.1016))
   )
 
-  (module 2fe143d13a9057f7874dd1e763167673:C025-025X050 (layer Top) (tedit 0) (tstamp 5F8EFE41)
+  (module 2fe143d13a9057f7874dd1e763167673:C025-025X050 (layer Top) (tedit 0) (tstamp 5F92D840)
     (at 179.7811 107.5386 270)
     (descr "<b>CAPACITOR</b><p>\ngrid 2.5 mm, outline 2.5 x 5 mm")
     (fp_text reference C7 (at 2.9514 0.7111 270) (layer F.SilkS)
       (effects (font (size 1.2065 1.2065) (thickness 0.127)) (justify right top))
     )
-    (fp_text value 100nF (at -2.286 2.794 90) (layer F.Fab) hide
+    (fp_text value 100nF (at -2.286 2.794 90) (layer F.SilkS)
       (effects (font (size 1.2065 1.2065) (thickness 0.12065)) (justify right top))
     )
     (fp_line (start -0.381 0) (end -0.762 0) (layer F.Fab) (width 0.1524))
@@ -1136,7 +1136,7 @@
   (gr_line (start 199.7711 127.8586) (end 199.7711 82.1486) (layer Edge.Cuts) (width 0.15) (tstamp 10054520))
   (gr_line (start 199.7711 82.1486) (end 97.2311 82.1486) (layer Edge.Cuts) (width 0.15) (tstamp 10054178))
   (gr_line (start 97.2311 82.1486) (end 97.2311 127.8586) (layer Edge.Cuts) (width 0.15) (tstamp 100540A8))
-  (gr_text PIN1 (at 98.5011 122.7786 90) (layer F.SilkS) (tstamp 100541E0)
+  (gr_text PIN1 (at 99.06 122.936 90) (layer F.SilkS) (tstamp 100541E0)
     (effects (font (size 0.77216 0.77216) (thickness 0.065024)) (justify left bottom))
   )
   (gr_text www.smbaker.com (at 195.0211 120.2386) (layer F.SilkS) (tstamp 10054110)

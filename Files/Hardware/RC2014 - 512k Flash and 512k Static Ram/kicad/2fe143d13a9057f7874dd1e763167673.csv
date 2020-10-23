@@ -1,5 +1,5 @@
 "ID","Bezeichner","Gehäuse","Stückzahl","Bezeichnung","Anbieter und Referenz"," ",
-1,"CON1","SIP40",1,"RC2014",,,
+1,"CON1","SIP40",1,"RC2014 Backplane",,,
 2,"C1,C2,C3,C4,C5,C6,C7","C025-025X050",7,"100nF",,,
 3,"IC7","DIL32",1,"AS6C4008",,,
 4,"IC6","DIL32",1,"39SF040",,,
