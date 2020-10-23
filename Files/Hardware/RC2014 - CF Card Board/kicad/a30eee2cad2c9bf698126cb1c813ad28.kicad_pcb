@@ -11,8 +11,8 @@
 
   (page A4)
   (layers
-    (0 Top signal hide)
-    (31 Bottom signal hide)
+    (0 Top signal)
+    (31 Bottom signal)
     (32 B.Adhes user)
     (33 F.Adhes user)
     (34 B.Paste user)
