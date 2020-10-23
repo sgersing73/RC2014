@@ -1,0 +1,11 @@
+"ID";"Bezeichner";"Gehäuse";"Stückzahl";"Bezeichnung";"Anbieter und Referenz";
+1;"CON1";"SIP40";1;"RC2014";;;
+2;"C1,C2,C3,C4,C5,C6,C7";"C025-025X050";7;"100nF";;;
+3;"IC7";"DIL32";1;"AS6C4008";;;
+4;"IC6";"DIL32";1;"39SF040";;;
+5;"IC1,IC2";"DIL16";2;"74HCT670N";;;
+6;"IC3";"DIL16";1;"74HCT139N";;;
+7;"IC4";"DIL16";1;"74HCT138N";;;
+8;"IC5";"DIL14";1;"74HCT74N";;;
+9;"SV1";"MA08-2";1;"";;;
+10;"RN1,RN2";"SIL6";2;"10K";;;
