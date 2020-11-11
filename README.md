@@ -10,8 +10,6 @@ Should I violate copyright please let me know.
 
 All this informations are based an Dr. Scott M. Baker blog, only a bit polished :-)
 
-Please visit
+Please visit https://www.smbaker.com/
 
-https://www.smbaker.com/
-
-Please visit https://github.com/sgersing73/RC2014/wiki/RC2014,-to-do-it-yourself
+Please start with https://github.com/sgersing73/RC2014/wiki/RC2014,-to-do-it-yourself
