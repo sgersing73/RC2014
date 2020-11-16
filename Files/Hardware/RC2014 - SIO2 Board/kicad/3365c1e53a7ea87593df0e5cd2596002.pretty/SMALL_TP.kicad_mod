@@ -1,0 +1,10 @@
+(module SMALL_TP (layer F.Cu) (tedit 0)
+  (fp_text reference U$2 (at 0 0) (layer F.SilkS) hide
+    (effects (font (size 1.27 1.27) (thickness 0.15)))
+  )
+  (fp_text value SMALL_TP (at 0 0) (layer F.SilkS) hide
+    (effects (font (size 1.27 1.27) (thickness 0.15)))
+  )
+  (pad TP thru_hole circle (at 0 0) (size 1.308 1.308) (drill 0.8) (layers *.Cu *.Mask)
+    (solder_mask_margin 0.1016))
+)
