@@ -1,9 +1,5 @@
 "ID","Bezeichner","Gehäuse","Stückzahl","Bezeichnung","Anbieter und Referenz"," ",
-<<<<<<< HEAD
-1,"IC1","DIL40",1,"Z80 CPU",,,
-=======
 1,"IC1","DIL40",1,"Z84C3006PEG",,,
->>>>>>> d97646d191811f5f81063c35e0a32be8decb98e2
 2,"SV1","MA06-2",1,"",,,
 3,"CON1","SIP40",1,"RC2014 Backplane",,,
 4,"R1","0204_7",1,"2.2K",,,
@@ -17,8 +13,4 @@
 12,"JP1","JP1",1,"",,,
 13,"IC2","DIL14",1,"74HC04N",,,
 14,"LED1,LED2,LED3,LED4,LED5,LED6","LED3MM",6,"",,,
-<<<<<<< HEAD
-15,"RN2","SIL7",1,"",,,
-=======
 15,"RN2","SIL7",1,"470",,,
->>>>>>> d97646d191811f5f81063c35e0a32be8decb98e2
