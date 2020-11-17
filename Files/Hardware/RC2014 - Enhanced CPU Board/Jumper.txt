@@ -1,0 +1,6 @@
+RC2014 - Enhanced CPU Board
+
+JP1 onbpard/bus clock
+
+SET   - use onboard clock
+UNSET - use clock from bus
