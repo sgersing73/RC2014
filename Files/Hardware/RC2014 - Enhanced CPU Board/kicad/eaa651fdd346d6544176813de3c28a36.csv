@@ -3,7 +3,7 @@
 2,"SV1","MA06-2",1,"",,,
 3,"CON1","SIP40",1,"RC2014 Backplane",,,
 4,"R1","0204_7",1,"2.2K",,,
-5,"QG1","DIL08S",1,"7.3728MHz","https://www.reichelt.de/quarzoszillator-7-372800-mhz-oszi-7-372800-p13722.html?&trstct=pos_12&nbc=1",,
+5,"QG1","DIL08S",1,"7.3728MHz",,,
 6,"C1,C2","C025-025X050",2,"100nF",,,
 7,"IC3","SOT143",1,"MAX811",,,
 8,"SJ1","SJ",1,"",,,
