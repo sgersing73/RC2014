@@ -21,7 +21,7 @@ class HexFile:
         for val in buffer:
            line = line + "%02X" % val
            cksum = cksum + val
-        cksum = (-(cksum % 256)) & 0xFF
+        cksum = int((-(cksum % 256))) & 0xFF
         line = line + "%02X" % cksum
         return line
 
@@ -67,7 +67,7 @@ class HexFile:
             self.bytes[addr + i] = val
             line = line[2:]
             cksum = cksum + val
-        cksum = (-(cksum % 256)) & 0xFF
+        cksum = int((-(cksum % 256)) & 0xFF)
 
         line_cksum = int(line[:2],16)
         if line_cksum != cksum:
