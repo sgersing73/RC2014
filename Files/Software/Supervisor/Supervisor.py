@@ -266,7 +266,7 @@ def main():
                 super.release_bus()
 
         if options.filename:
-            file(options.filename,"w").write(hexdumper.to_str())
+            open(options.filename,"w").write(hexdumper.to_str())
         else:
             sys.stdout.write(hexdumper.to_str())
 
@@ -279,7 +279,7 @@ def main():
     elif (cmd=="loadhex"):
         hexloader = HexFile(None)
         if options.filename:
-            hexloader.from_str(file(options.filename,"r").read())
+            hexloader.from_str(open(options.filename,"r").read())
         else:
             hexloader.from_str(sys.stdin.read())
 
